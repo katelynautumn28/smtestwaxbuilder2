@@ -17,8 +17,8 @@
 
 title:            'WaxBuilder'
 description:      'A minimal collections exhibit platform'
-url:              'https://kam535.github.io' #CHANGE THIS
-baseurl:          '/waxbuilder' #CHANGE THIS
+url:              'https://katelynautumn28.github.io' #CHANGE THIS
+baseurl:          '/smtestwaxbuilder2/' #CHANGE THIS
 copyright:        'Cornell University Digital CoLab, 2024'
 logo:             '/img/book.png'
 default_thumb:    '/img/default.png'
