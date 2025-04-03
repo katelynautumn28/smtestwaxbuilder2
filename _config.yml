@@ -15,7 +15,7 @@
 # Feel free to change these! For more info, refer to:
 # ~> https://jekyllrb.com/docs/configuration/options/
 
-title:            'WaxBuilder'
+title:            'Sylvester Manor WaxBuilder Test 2'
 description:      'A minimal collections exhibit platform'
 url:              'https://katelynautumn28.github.io' #CHANGE THIS
 baseurl:          '/smtestwaxbuilder2/' #CHANGE THIS
