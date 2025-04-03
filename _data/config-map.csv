@@ -1,4 +1,4 @@
 field,display_name,search
 dateStart,Date,true
-latitude,Location,true
-longitude,Location,true
+label,Item,true
+location,Location,true
