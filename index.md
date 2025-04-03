@@ -3,7 +3,7 @@ layout: page
 show_title: false
 banner:
   collection: smtestwaxbuilder2
-  pid: obj24
+  pid: cuid4751
   y: 25%
   clickable: yes
   height: '500px'
