@@ -14,6 +14,10 @@ Gem::Specification.new do |spec|
   spec.add_runtime_dependency 'jekyll', '~> 4.3.2'
   spec.add_runtime_dependency 'wax_tasks', '~> 1.1'
   spec.add_runtime_dependency 'webrick', '~> 1.8'
+spec.add_runtime_dependency 'csv'
+spec.add_runtime_dependency 'logger'
+spec.add_runtime_dependency 'base64'
+spec.add_runtime_dependency 'benchmark'
 
   spec.add_development_dependency 'html-proofer', '~> 3.15'
 end

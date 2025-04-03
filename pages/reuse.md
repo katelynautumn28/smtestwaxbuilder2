@@ -2,7 +2,7 @@
 layout: page
 title: Reuse the Collection Data
 permalink: /data/
-collection: medievalfragments
+collection: smtestwaxbuilder2
 ---
 
 Wax is inspired by [FAIR data principles](https://journal.code4lib.org/articles/13427). As such, collections made using Wax strive to make their underlying datasets findable, accessible, interoperable and reusable.

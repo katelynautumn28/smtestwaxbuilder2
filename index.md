@@ -2,7 +2,7 @@
 layout: page
 show_title: false
 banner:
-  collection: medievalfragments
+  collection: smtestwaxbuilder2
   pid: obj24
   y: 25%
   clickable: yes
