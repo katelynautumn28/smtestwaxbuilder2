@@ -16,11 +16,18 @@ Before using WaxBuilder, I suggest you familiarise yourself with Wax, including 
 
 <img src="https://kam535.github.io/waxbuilder/img/medievalfragments.png" class="center" alt="Cornell RMC from above">
 <div style="text-align:center">
-<em>The WaxBuilder demo site, Medieval Fragments at Cornell</em>
+<em>The Sylvester Manor WaxBuilder demo site</em>
 </div>
 
 <br> 
 ### Browse the Collection
 
 #### By Item Type
-{% include collection_gallery.html facet_by='worktype' collection='medievalfragments' %}
+{% include collection_gallery.html facet_by='object_type' collection='smtestwaxbuilder2' %}
+
+#### By Subject
+{% include collection_gallery.html facet_by='tTags' collection='smtestwaxbuilder2' %}
+
+#### By Location
+{% include collection_gallery.html facet_by='location' collection='smtestwaxbuilder2' %}
+
