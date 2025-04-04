@@ -2,3 +2,5 @@ field,display_name,search
 dateStart,Date,true
 label,Item,true
 location,Location,true
+latitude,Latitude,true
+longitude,Longitude,true
