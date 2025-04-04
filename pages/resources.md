@@ -46,7 +46,7 @@ permalink: /resources/
   -->
   
   <article class="card">
-    <img src="http://jsamixdesign.com/wp-content/uploads/2015/05/02-NYU-Bobst-Library-1.jpg">
+    <img src="https://bpb-us-e1.wpmucdn.com/wp.nyu.edu/dist/c/21079/files/2021/02/archival-768x512.jpg">
     <div class="text">
       <h3>Guide to the Sylvester Manor Archive at NYU</h3>
       <p>View the full finding aid for the Sylvester Manor Archive at NYU.</p>

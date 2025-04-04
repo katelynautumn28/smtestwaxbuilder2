@@ -112,26 +112,26 @@ menu:
     link: '/timeline/'
   - label: 'Map'
     link: '/map.html'
-  - label: 'Blog'
-    sub:
-      - label: 'Example Blog: Melissa'
-        link: '/blog/a/'
-      - label: 'Example Blog: Sophia'
-        link: '/blog/b/'
-      - label: 'Sample Exhibit Shell'
-        link: '/blog/c/'
+  - label: 'Data'
+    link: '/data/'
   - label: 'Resources'
     link: '/resources/'
   - label: 'Documentation'
     link: 'https://kam535.github.io/wax-documentation/pages/waxbuilder.html'
-  - label: 'Data'
-    link: '/data/'
   - label: 'About'
     sub: 
       - label: 'About WaxBuilder'
         link: '/about-waxbuilder/'
       - label: 'About the Project'
         link: '/about-project/'
+  - label: 'Blog'
+    sub:
+      - label: 'Example Blog: Melissa'
+        link: '/blog/a/'
+      - label: 'Example Blog: Sophia'
+        link: '/blog/b/'
+      - label: 'Example Blog: Chloe'
+        link: '/blog/c/'
   
 
 # --------------------------------------------------------------
