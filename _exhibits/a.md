@@ -3,7 +3,7 @@ layout: exhibit
 title: 'Bonaventure Lyffe of Chryste in Englysshe'
 author: Cornell RMC
 publish_date: 2024-11-15
-permalink: /exhibits/a/
+permalink: /blog/a/
 ---
 
 Ut eleifend lacus at erat efficitur bibendum. Ut laoreet elit nec dolor molestie finibus. Vivamus justo risus, scelerisque nec dolor ut, pretium fringilla purus. Nam nisl erat, tristique ac libero vitae, bibendum pellentesque nulla. Praesent accumsan ut mauris ut euismod. Etiam mattis a justo eget blandit. Aliquam vitae magna eget nisi suscipit finibus id sit amet nulla.[^1]
