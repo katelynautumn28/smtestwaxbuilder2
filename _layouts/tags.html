@@ -19,7 +19,7 @@ layout: timelinedefault
         {% assign tagsArray = item.tTags | append: ',' | append: item.location | append: ',' | append: item.object_type | split:',' %}
         {% for tagArray in tagsArray %}
           {% if tagArray == tag %}
-          <a href="{{ item.url | relative_url }}" class="card text-white">
+          <a href="{{ itemURL | relative_url }}" class="card text-white">
 
             {% if item.thumbnail %}
             {% capture imageURL %}{{ item.thumbnail }}{% endcapture %}
