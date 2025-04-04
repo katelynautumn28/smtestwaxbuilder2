@@ -23,7 +23,7 @@ layout: timelinedefault
 
             {% if item.thumbnail %}
             {% capture imageURL %}{{ item.thumbnail }}{% endcapture %}
-            <img class="card-img" src="{{ imageURL | relative_url }}" alt="{{ item.label }}">
+            <img class="card-img" src="{{ itemURL | relative_url }}" alt="{{ item.label }}">
             {% else %}
             <svg class="card-img" width="400px" height="400px" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice" focusable="false" role="img" aria-label="Placeholder: Item image">
               <title>Placeholder</title>
