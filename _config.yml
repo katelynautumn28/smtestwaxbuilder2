@@ -80,7 +80,7 @@ search:
     index: '/search/index.json' # file the index will get written to
     collections:
       smtestwaxbuilder2:
-        content: true # whether or not to index page content
+        content: false # whether or not to index page content
         fields: # the metadata fields to index
           - label
           - agents
