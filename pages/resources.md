@@ -1,7 +1,7 @@
 ---
-title: 'Teaching Tools'
+title: 'Resources'
 layout: page
-permalink: /teaching-tools/
+permalink: /resources/
 ---
 <style>
   .cards {

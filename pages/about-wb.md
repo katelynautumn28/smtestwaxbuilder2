@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About the Project
-permalink: /about/
+title: About WaxBuilder
+permalink: /about-waxbuilder/
 ---
 
 WaxBuilder was created by the Collections as Data Librarian at Cornell Univerity's Digital CoLab using the open-source exhibition platform [Wax](https://minicomp.github.io/wax/). The project is supported by the Collections as Data Librarian, the Director of Digital Scholarship Services, and the Emerging Data Practices Librarian at Cornell University Library's [Digital Scholarship Services](https://www.library.cornell.edu/about/staff/central-departments/digital-scholarship/).

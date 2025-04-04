@@ -108,14 +108,6 @@ menu:
     link: '/collection/'
   - label: 'Search'
     link: '/search/'
-  - label: 'Teaching Tools'
-    link: '/teaching-tools/'
-  - label: 'Timeline'
-    link: '/timeline/'
-  - label: 'Map'
-    link: '/map.html'
-  - label: 'Data'
-    link: '/data/'
   - label: 'Blog'
     sub:
       - label: 'Bonaventure Lyffe of Chryste'
@@ -124,12 +116,22 @@ menu:
         link: '/blog/b/'
       - label: 'Sample Exhibit Shell'
         link: '/blog/c/'
+  - label: 'Timeline'
+    link: '/timeline/'
+  - label: 'Map'
+    link: '/map.html'
+  - label: 'Resources'
+    link: '/resources/'
   - label: 'Documentation'
     link: 'https://kam535.github.io/wax-documentation/pages/waxbuilder.html'
+  - label: 'Data'
+    link: '/data/'
   - label: 'About'
-    link: '/about/'
- 
-  
+    sub: 
+      - label: 'About WaxBuilder'
+        link: '/about-waxbuilder/'
+      - label: 'About the Project'
+        link: '/about-project/'
   
 
 # --------------------------------------------------------------
