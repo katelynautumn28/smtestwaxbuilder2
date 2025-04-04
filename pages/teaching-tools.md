@@ -46,7 +46,7 @@ permalink: /teaching-tools/
   -->
   
   <article class="card">
-    <img src="cuid4751.jpg">
+    <img src="file:///Users/katelynautumn28/Desktop/smtestwaxbuilder2/_data/raw_images/smtestwaxbuilder2_images/cuid4751.jpg">
     <div class="text">
       <h3>Guide to the Sylvester Manor Archive at NYU</h3>
       <p>View the full finding aid for the Sylvester Manor Archive at NYU.</p>
@@ -58,9 +58,9 @@ permalink: /teaching-tools/
   <article class="card">
       <img src="https://www.getty.edu/art/collections/images/m/00514301.jpg" alt="Initial A: Two Men before a King and A Man Speaking to a Family, from the Vidal Mayor, 1290–1310">
       <div class="text">
-      <h3>Looking at Illuminated Manuscripts: Exploring an Illuminated Manuscript Page | The Getty</h3>
-      <p>A guide from the J. Paul Getty Museum for 3-12 educators on teaching with illuminated manuscript pages.</p>
-      <a href="https://www.getty.edu/education/teachers/classroom_resources/curricula/manuscripts/manuscripts_lesson01.html" class='card-link'>
+      <h3>Sylvester Manor Educational Farm Official Site</h3>
+      <p>Learn more about the history and operations of Sylvester Manor, a 236-acre historic plantation and nonprofit educational farm located on Shelter Island, NY.</p>
+      <a href="https://www.sylvestermanor.org/" class='card-link'>
          <button>Click Here</button>
          </a>
     </div>
