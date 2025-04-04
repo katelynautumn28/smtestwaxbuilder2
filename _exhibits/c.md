@@ -1,6 +1,6 @@
 ---
 layout: exhibit
-title: 'Sample Exhibit Shell'
+title: 'Example Blog: Chloe'
 author: Cornell RMC
 publish_date: 2024-11-15
 permalink: /blog/c/
@@ -18,4 +18,4 @@ permalink: /blog/c/
   </body>
 </html>
 
-An exhibit is just a page written in Markdown (or HTML, or both). You can put whatever you want on here.
+Routine financial documents in archives may seem easy to overlook, but in the case of Sylvester Manor, they provide valuable insights into the lives of those who inhabited and labored the land. The image on the left shows a deed of sale from July 1836, in which Julia Havens, the daughter of Comus Fanning (who passed away in 1832), sold 10 acres of land to Samuel P. Gardiner. The deed was addressed to a Charles Eustis Gibbons, with the warranty deed equating to $160.

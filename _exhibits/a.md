@@ -1,25 +1,20 @@
 ---
 layout: exhibit
-title: 'Bonaventure Lyffe of Chryste in Englysshe'
+title: 'Example Blog: Melissa'
 author: Cornell RMC
 publish_date: 2024-11-15
 permalink: /blog/a/
 ---
 
-Ut eleifend lacus at erat efficitur bibendum. Ut laoreet elit nec dolor molestie finibus. Vivamus justo risus, scelerisque nec dolor ut, pretium fringilla purus. Nam nisl erat, tristique ac libero vitae, bibendum pellentesque nulla. Praesent accumsan ut mauris ut euismod. Etiam mattis a justo eget blandit. Aliquam vitae magna eget nisi suscipit finibus id sit amet nulla.[^1]
-
-Nam velit leo, mattis ac dui non, vulputate porttitor sapien. Praesent in aliquet dui. Nulla facilisi. Maecenas nulla ex, facilisis non aliquet ac, ultrices eu sem. Sed vel aliquet urna. Mauris quis ex at lectus iaculis elementum id id massa. Integer luctus nulla vel tellus rutrum, ac pulvinar erat finibus. Aliquam erat volutpat. Pellentesque vel velit sit amet mauris dignissim feugiat.
+In one of her many sketchbooks, Cornelia Horsford captured images of a modest-looking cottage on the Sylvester Manor estate, complete with a gable roof, two chimneys, and small windows around its perimeter. She also depicted a tattered outdoor well, its wood panels chipped—perhaps rotting—next to a shabby bucket. These black-and-white pencil sketches are the only two known images in Sylvester Manor’s collection of what is believed to be Julia Havens Johnson’s childhood home; they raise questions about her presence on Sylvester Manor, and particularly, her relationship with Cornelia. 
 
 
-{% include parallax_image.html collection='medievalfragments' pid='obj16' y='25%' clickable='true' %}
+{% include parallax_image.html collection='smtestwaxbuilder2' pid='cuid4751' y='25%' clickable='true' %}
 
 
-Duis commodo ligula libero, a pharetra ligula posuere sit amet. Sed ipsum dolor, elementum eget nisl eget, sagittis vestibulum augue. Donec tincidunt mauris et nunc sagittis, nec consectetur lorem tristique. Nulla tincidunt magna ut ullamcorper consectetur. Nulla mi urna, feugiat sed massa non, ullamcorper efficitur dolor.[^2] Sed luctus, massa eget pharetra posuere, nibh sem eleifend lectus, lobortis molestie ante libero non metus. Aenean et est sit amet est pulvinar convallis vel non tortor. Nunc semper commodo fringilla. Proin eget metus eget felis faucibus aliquet. Cras ultrices turpis id nibh cursus fringilla. Aenean nec magna turpis. Suspendisse egestas tellus iaculis ante pharetra imperdiet ac at odio.
+In 1820, eleven-year-old Julia moved into the cottage on Sylvester Manor with her mother Dido and stepfather, Comus Fanning. Dido was an enslaved woman and continued working as a domestic servant for the Havens family, who were related by marriage to the Horsfords, after they freed her in 1801. Certain parts of Julia’s story suggest that she and her mother may have also had more personal connections to the family. For example, records from the archive reveal that the Sylvester Manor matriarch, Mary Catherine L’Hommedieu, paid for young Julia to be taught by a private teacher on Shelter Island. She also traveled with Dido and the Havens family between their various properties in New York City and Shelter Island, though it is likely that she and her mother were both expected to labor, in some capacity, on these trips. As an adult, Julia continued to work as a housekeeper in the Sylvester Manor house and at other properties on the estate. Her life was closely linked to Sylvester Manor and the different family members who inhabited the grand estate. 
 
-Integer eu augue elementum, venenatis nisi vitae, ultrices magna. Nunc accumsan sem quis tristique iaculis. Quisque sed lorem tortor. Quisque viverra sem a orci aliquet sodales. Aliquam commodo eros at sagittis vehicula. Quisque in massa turpis. Aliquam aliquam consectetur magna non dignissim. Sed fringilla a ligula vitae molestie.
-
-Duis finibus leo non velit viverra tincidunt. Fusce efficitur laoreet convallis. Sed sem felis, porttitor sit amet volutpat ac, consequat quis lectus. Donec elementum dignissim vehicula. Pellentesque fringilla ex bibendum, ornare sapien a, mollis neque. Duis faucibus diam vitae faucibus feugiat. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris pharetra elit sem, et euismod massa mattis ut. Phasellus maximus ipsum in nulla sollicitudin viverra. Morbi semper lectus quis dolor cursus, ut convallis lacus venenatis. Pellentesque lorem mauris, malesuada a fringilla et, iaculis sodales metus. Suspendisse finibus purus ut sem commodo feugiat.
-
+The family member whose relationship to Julia largely remains a mystery is Cornelia, who appears to have harbored a great fondness for Julia, despite their sixty-year age gap. Very little evidence exists to provide insight into Cornelia’s personal interactions with Julia, but her efforts to keep her memory alive through these sketches and other attempted memorial projects suggest that there might have been a level of affection between the two women. Perhaps Cornelia even viewed Julia as another maternal figure in her life. Despite the questions that remain about the nature of their relationship, it is clear that Cornelia recognized Julia’s deep ties to the Sylvester Manor and Shelter Island.
 ---
 
 ### Notes
