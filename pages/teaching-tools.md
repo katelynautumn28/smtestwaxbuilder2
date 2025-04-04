@@ -46,7 +46,7 @@ permalink: /teaching-tools/
   -->
   
   <article class="card">
-    <img src="file:///Users/katelynautumn28/Desktop/smtestwaxbuilder2/_data/raw_images/smtestwaxbuilder2_images/cuid4751.jpg">
+    <img src="http://jsamixdesign.com/wp-content/uploads/2015/05/02-NYU-Bobst-Library-1.jpg">
     <div class="text">
       <h3>Guide to the Sylvester Manor Archive at NYU</h3>
       <p>View the full finding aid for the Sylvester Manor Archive at NYU.</p>
@@ -56,7 +56,7 @@ permalink: /teaching-tools/
     </div>
   </article>
   <article class="card">
-      <img src="https://www.getty.edu/art/collections/images/m/00514301.jpg" alt="Initial A: Two Men before a King and A Man Speaking to a Family, from the Vidal Mayor, 1290–1310">
+      <img src="https://www.sylvestermanor.org/wp-content/uploads/2023/10/whoweare.png">
       <div class="text">
       <h3>Sylvester Manor Educational Farm Official Site</h3>
       <p>Learn more about the history and operations of Sylvester Manor, a 236-acre historic plantation and nonprofit educational farm located on Shelter Island, NY.</p>
