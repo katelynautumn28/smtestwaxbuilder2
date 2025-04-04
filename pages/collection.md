@@ -6,10 +6,10 @@ permalink: /collection/
 ---
 This site's collection comprises a set of objects, each of which is represented by one or more images. The collection items are from Cornell University's Rare and Manuscript Collections.
 
-{% include gallery.html collection='smtestwaxbuilder2' facet_by='label|originalwork|worktype|' num_column=4 %}
+{% include gallery.html collection='smtestwaxbuilder2' facet_by='label|originalWork|object_type|' num_column=4 %}
 
 ## Subjects
-{% include tag-carousel.html fields="worktype" %}
+{% include tag-carousel.html fields="object_type" %}
 {% include tag-carousel.html fields="tTags" %}
 
 ## Locations
