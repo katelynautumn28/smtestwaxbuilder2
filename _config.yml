@@ -87,11 +87,12 @@ search:
           - dateStart
           - dateEnd
           - description
+          - transcription
           - tTags
           - location
           - latitude
           - longitude
-          - object_type
+          - worktype
           - originalWork
           - format
           - rights
