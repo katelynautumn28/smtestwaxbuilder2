@@ -66,11 +66,11 @@ permalink: /resources/
     </div>
   </article>
   <article class="card">
-    <img src="https://library.missouri.edu/specialcollections/files/square_thumbnails/09e1fb16d3a9e5af60b1cbddee9fdc2d.jpg" alt="Leaf from Liber de informatione principum. French.">
+    <img src="https://thehistorypress.co.uk/wp-content/uploads/media/6627/picture1-wpv_1020x800_center_center.jpg" alt="Example of historical handwriting.">
      <div class="text">
       <h3>Teaching with Medieval Books in Special Collections</h3>
-      <p>This guide covers resources in Special Collections related to medieval European books, especially medieval manuscripts and early printed books (sometimes called "incunables").</p>
-      <a href="https://libraryguides.missouri.edu/c.php?g=1043247&p=7567529" class='card-link'>
+      <p>This guide lists common abbreviations, misspellings, and writing conventions that appear in documents in the Sylvester Manor Archive.</p>
+      <a href="https://docs.google.com/document/d/1P8XHOx36C6lcbkmtsFEO20WZBJpQ1EJ2ZlJr2s72cww/edit?usp=sharing" class='card-link'>
          <button>Click Here</button>
          </a>
      </div>
