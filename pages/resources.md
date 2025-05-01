@@ -68,7 +68,7 @@ permalink: /resources/
   <article class="card">
     <img src="https://thehistorypress.co.uk/wp-content/uploads/media/6627/picture1-wpv_1020x800_center_center.jpg" alt="Example of historical handwriting.">
      <div class="text">
-      <h3>Teaching with Medieval Books in Special Collections</h3>
+      <h3>Guide to Historical Handwriting</h3>
       <p>This guide lists common abbreviations, misspellings, and writing conventions that appear in documents in the Sylvester Manor Archive.</p>
       <a href="https://docs.google.com/document/d/1P8XHOx36C6lcbkmtsFEO20WZBJpQ1EJ2ZlJr2s72cww/edit?usp=sharing" class='card-link'>
          <button>Click Here</button>
