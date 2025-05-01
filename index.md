@@ -23,7 +23,7 @@ Before using WaxBuilder, I suggest you familiarise yourself with Wax, including 
 ### Browse the Collection
 
 #### By Item Type
-{% include collection_gallery.html facet_by='object_type' collection='smtestwaxbuilder2' %}
+{% include collection_gallery.html facet_by='worktype' collection='smtestwaxbuilder2' %}
 
 #### By Subject
 {% include collection_gallery.html facet_by='tTags' collection='smtestwaxbuilder2' %}
