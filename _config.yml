@@ -16,10 +16,10 @@
 # ~> https://jekyllrb.com/docs/configuration/options/
 
 title:            'Sylvester Manor WaxBuilder Test 2'
-description:      'A minimal collections exhibit platform'
+description:      'Test site for the Sylvester Manor Project at NYU'
 url:              'https://katelynautumn28.github.io' #CHANGE THIS
 baseurl:          '/smtestwaxbuilder2/' #CHANGE THIS
-copyright:        'Cornell University Digital CoLab, 2024'
+copyright:        'Katelyn Landry, 2025'
 logo:             '/img/book.png'
 default_thumb:    '/img/default.png'
 metadata: 'smtestwaxbuilder2' #CHANGE THIS; exclude the file extension, i.e. .csv
@@ -127,13 +127,13 @@ menu:
         link: '/about-project/'
   - label: 'Blog'
     sub:
-      - label: 'Example Blog: Melissa'
+      - label: 'After the Finding Aid: Project Intro'
         link: '/blog/a/'
-      - label: 'Example Blog: Sophia'
+      - label: 'Brenna Blog'
         link: '/blog/b/'
-      - label: 'Example Blog: Chloe'
+      - label: 'Edwyn Blog'
         link: '/blog/c/'
-  
+
 
 # --------------------------------------------------------------
 # SITE FOOTER SETTINGS
@@ -143,7 +143,7 @@ menu:
 footer:
   links:
     - label: 'GitHub'
-      link: 'https://github.com/kam535/waxbuilder'
+      link: 'https://github.com/katelynautumn28/smtestwaxbuilder2'
     - label: 'Credits'
       link: '/credits'
     - label: 'Wax Wiki'
