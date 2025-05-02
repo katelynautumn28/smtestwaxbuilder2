@@ -4,10 +4,21 @@ title: Credits & Contact
 permalink: '/credits/'
 ---
 
-Wax is a minimal computing ([minicomp](https://github.com/minicomp)) project led and maintained by [Marii Nyrop](https://marii.info/) and [Alex Gil](https://github.com/elotroalex).
+The Sylvester Manor Project at NYU is a Mellon Foundation-funded collaborative initiative between the NYU Department of History and the Sylvester Manor Educational Farm. 
 
-It uses open source libraries and frameworks including [Jekyll](https://jekyllrb.com), [IIIF](http://iiif.io), [OpenSeaDragon](https://openseadragon.github.io/), and [ElasticLunr](http://elasticlunr.com/) and builds upon work by [Peter Binkley](https://github.com/pbinkley), [David Newbury](https://github.com/workergnome), and others.
+NYU Project Lead: Ellen Noonan, Director of the Archives and Public History MA program at NYU
 
-We welcome and encourage contributibutions. Please get in touch, or [fork the project on GitHub](https://github.com/minicomp/wax). If you encounter any issue with the software, please [create an issue](https://github.com/minicomp/wax/issues) or find us in the **#minicomp-wax** channel within the [Code4Lib Slack](https://code4lib.slack.com). (Request an invite [here](https://docs.google.com/forms/d/e/1FAIpQLSeD77mBp0Y13mFePF8UmDwFrlbxNx3VttEjz_3dgglJeK-Zbg/viewform?c=0&w=1)!)
+2024-25 Project Team: 
+* Katelyn Landry, Archives and Public History MA '25
+* Brenna Moran, Archives and Public History MA '25
+* Edwyn Feng, History '28
 
-For more on working with Wax, visit our [documentation wiki](https://minicomp.github.io/wiki/wax/).
+Sylvester Manor History and Heritage Staff: 
+* Donnamarie Barnes
+* Alice Clark
+
+We sincerely appreciate the support and collaboration of our colleagues at NYU Libraries: 
+* Weatherly Stephan, Head, Archival Collections Management
+* Nicholas Martin, Curator for the Arts and Humanities
+* Alia Warsco, Digital Scholarship Services Grad Student Assistant
+* Elliot Galvis, Adjunct Digital Scholarship Specialist, Digital Scholarship Services
