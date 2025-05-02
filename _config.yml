@@ -129,9 +129,9 @@ menu:
     sub:
       - label: 'After the Finding Aid: Project Intro'
         link: '/blog/a/'
-      - label: 'Brenna Blog'
+      - label: 'Slavery and the Anglo-Dutch Connection'
         link: '/blog/b/'
-      - label: 'Edwyn Blog'
+      - label: 'Brenna Blog'
         link: '/blog/c/'
 
 
