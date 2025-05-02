@@ -18,7 +18,7 @@ This bill of sale, additionally, reveals details about Early Modern colonial eco
 
 {% include inline_image.html collection='smtestwaxbuilder2' pid='cuid4770' clickable='true' %}
 
-[^1] "A list of the names of all the adventurers in the stock of the honourable the East-India-Company, the 12th day of April, 1684 whereof those marked with a * are not capable (by their adventure) to be chosen committees." In the digital collection Early English Books Online 2. https://name.umdl.umich.edu/B21539.0001.001. University of Michigan Library Digital Collections. Accessed March 12, 2025.
-[^2] Kevin P. McDonald, Pirates, Merchants, Settlers, and Slaves: Colonial America and the Indo-Atlantic World (Oakland, California: University of California Press, 2015), 132.
-[^3] McDonald, Pirates, Merchants, Settlers, and Slaves, 52. 
-[^4] “Sylvester Family,” Sylvester Manor, Sylvester Manor, Accessed May 1 2025, https://www.sylvestermanor.org/sylvester-family/.
+[^1]: "A list of the names of all the adventurers in the stock of the honourable the East-India-Company, the 12th day of April, 1684 whereof those marked with a * are not capable (by their adventure) to be chosen committees." In the digital collection Early English Books Online 2. https://name.umdl.umich.edu/B21539.0001.001. University of Michigan Library Digital Collections. Accessed March 12, 2025.
+[^2]: Kevin P. McDonald, Pirates, Merchants, Settlers, and Slaves: Colonial America and the Indo-Atlantic World (Oakland, California: University of California Press, 2015), 132.
+[^3]: McDonald, Pirates, Merchants, Settlers, and Slaves, 52. 
+[^4]: “Sylvester Family,” Sylvester Manor, Sylvester Manor, Accessed May 1 2025, https://www.sylvestermanor.org/sylvester-family/.
