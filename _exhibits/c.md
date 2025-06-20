@@ -1,8 +1,8 @@
 ---
 layout: exhibit
-title: 'Example Blog: Chloe'
-author: Cornell RMC
-publish_date: 2024-11-15
+title: 'Cornelia and Julia exhibit test'
+author: Students in Introduction to Public History, FA24
+publish_date: 2025-06-20
 permalink: /blog/c/
 ---
 <html>
